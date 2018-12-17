@@ -12,3 +12,9 @@ $(document).ready(function() {
     });
 
 });
+
+function placement (total){
+if (mexico)
+return $
+}else if (disneyworld)
+return 12
